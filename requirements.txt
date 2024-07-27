@@ -1,2 +1,4 @@
 scikit-learn
 flake8
+flask
+numpy
